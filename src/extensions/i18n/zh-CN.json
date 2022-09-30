@@ -1,0 +1,9 @@
+{
+    "id": "ide-zh-CN",
+    "name": "简体中文 - IDE",
+    "inherit": "zh-CN",
+    "source": {
+        "menu.saveFile": "保存",
+        "menu.openWorkspace": "打开工作空间"
+    }
+}
